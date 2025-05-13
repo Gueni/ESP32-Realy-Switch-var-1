@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=CONNECTORS.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=CONNECTORS.SchDoc|FileName=Power Supply.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CONNECTORS.SchDoc|FileName=Relay.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CONNECTORS.SchDoc|FileName=RF.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=CONNECTORS.SchDoc|FileName=USB-PROG.SchDoc|SheetNumber=3
